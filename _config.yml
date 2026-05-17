@@ -12,7 +12,7 @@ relative_links:
 
 include:
   - README.md
-  - INDEX.md
+  - index.md
   - by-type/*.md
   - by-topic/**/*.md
   - by-date/**/*.md
