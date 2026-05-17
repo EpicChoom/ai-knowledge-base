@@ -1,0 +1,23 @@
+title: AI Knowledge Base
+description: A curated collection of AI/ML resources, tools, and research links
+theme: jekyll-theme-minimal
+
+plugins:
+  - jekyll-relative-links
+  - jekyll-readme-index
+
+relative_links:
+  enabled: true
+  collections: true
+
+include:
+  - README.md
+  - INDEX.md
+  - by-type/*.md
+  - by-topic/**/*.md
+  - by-date/**/*.md
+
+exclude:
+  - raw-extracts/
+  - ".github/"
+  - "*.backup.*"
