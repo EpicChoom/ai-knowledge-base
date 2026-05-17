@@ -8,7 +8,12 @@ Resources specific to the OpenClaw self-hosted AI platform.
 |----------|------|-------|
 | Main Repo | https://github.com/openclaw/openclaw | Source code |
 | Documentation | https://docs.openclaw.ai | Official docs |
-| Discord | https://discord.com/invite/clawd | Community |
+| CLI Doctor | https://docs.openclaw.ai/cli/doctor | Diagnostics |
+| CLI System | https://docs.openclaw.ai/cli/system | System commands |
+| FAQ | https://docs.openclaw.ai/faq | Common questions |
+| Web Tools | https://docs.openclaw.ai/tools/web | Tool documentation |
+| Troubleshooting | https://docs.openclaw.ai/troubleshooting | Debug guide |
+| Discord | https://discord.gg/basi | Community |
 | ClawHub | https://clawhub.ai | Skill marketplace |
 
 ## Setup Guides
@@ -19,6 +24,8 @@ Resources specific to the OpenClaw self-hosted AI platform.
 | Budget VPS Setup | YouTube | https://youtu.be/o-C4CLSthDo |
 | Ollama Integration | YouTube | https://youtu.be/S-kzUO9M040 |
 | Zero Cost AI Assistant | YouTube | https://youtu.be/S-kzUO9M040 |
+| Advanced Setup | YouTube | https://youtu.be/ouaoJlh3DB4 |
+| Deep Dive | YouTube | https://youtu.be/z0y1nuiXdoc |
 
 ## Portable/Offline Versions
 
@@ -34,6 +41,7 @@ Resources specific to the OpenClaw self-hosted AI platform.
 |---------|------|-------|
 | ClawWork | https://github.com/HKUDS/ClawWork | AI coworker |
 | OpenClio | https://github.com/Phylliida/OpenClio | Open source Clio |
+| OpenMonoAgent | https://www.openmonoagent.ai/ | Mobile AI coding agent |
 
 ## Articles
 

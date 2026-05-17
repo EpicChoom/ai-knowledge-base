@@ -27,6 +27,8 @@ AI/ML related videos collected from various sources.
 | OpenClaw + Ollama | Community | https://youtu.be/S-kzUO9M040 | Zero cost AI setup |
 | OpenClaw Beginners Guide | Community | https://youtu.be/mP8Hwuugj6U | Setup tutorial |
 | OpenClaw on Budget VPS | Community | https://youtu.be/o-C4CLSthDo | Step-by-step |
+| OpenClaw Advanced | Community | https://youtu.be/ouaoJlh3DB4 | Advanced setup |
+| OpenClaw Deep Dive | Community | https://youtu.be/z0y1nuiXdoc | Technical deep dive |
 
 ### Model Research
 

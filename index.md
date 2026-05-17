@@ -18,6 +18,9 @@
 | GitHub Repos | [by-type/github-repos.md](by-type/github-repos.md) | 15+ repos |
 | Articles | [by-type/articles.md](by-type/articles.md) | 10+ articles |
 | Tools & APIs | [by-type/tools.md](by-type/tools.md) | 20+ tools |
+| Product Compass | [by-type/product-compass.md](by-type/product-compass.md) | 8+ guides |
+| Books | [by-type/books.md](by-type/books.md) | 4 books |
+| Social & Community | [by-type/social-community.md](by-type/social-community.md) | Discussions |
 
 ## Quick Links
 

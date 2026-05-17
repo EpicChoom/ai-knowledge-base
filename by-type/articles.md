@@ -10,6 +10,8 @@ Written content on AI/ML topics.
 | Ghost: A Database for Our Times | Towards Data Science | https://towardsdatascience.com/ghost-a-database-for-our-times/ | AI memory systems |
 | The Mind Beyond Ours | Dylan Curious | https://medium.com/@dylancurious/the-mind-beyond-ours-my-two-part-dive-with-wes-roth-into-ais-uncanny-future-850e5b073ec0 | AI future |
 | Anthropic's New AI Model Too Dangerous to Release | Natural20 | https://natural20.beehiiv.com/p/anthropic-says-its-new-ai-model-is-too-dangerous-to-release | Safety research |
+| Ghost Code Generator | Workik | https://workik.com/ghost-code-generator | Ghost tooling |
+| Skills Newsletter | AI Hero | https://www.aihero.dev/s/skills-newsletter | AI skills |
 
 ## OpenClaw & Tools
 
@@ -30,6 +32,15 @@ Written content on AI/ML topics.
 |-------|---------------|------|-------|
 | Qwen3.6-27B Release | QwenLM | https://qwen.ai/blog?id=qwen3.6-27b | Model release |
 | AI Agents Mythical Agent Month | Wes McKinney | https://wesmckinney.com/transcripts/2026-04-08-joe-reis-ai-agents-mythical-agent-month | Agent discussion |
+| arXiv Paper 2505.09388 | arXiv | https://arxiv.org/pdf/2505.09388 | Research paper |
+
+## Claude Guides & Support
+
+| Title | Author/Source | Link | Topic |
+|-------|---------------|------|-------|
+| Using Claude Code with Pro/Max | Anthropic Support | https://support.claude.com/en/articles/11145838 | Claude Code billing |
+| Claude Cowork with Third-Party | Anthropic Support | https://support.claude.com/en/articles/14680729 | Claude Cowork setup |
+| Claude Code for Teams/Enterprise | Anthropic Support | https://support.anthropic.com/en/articles/11845131 | Enterprise setup |
 
 ---
 

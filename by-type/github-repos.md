@@ -11,6 +11,8 @@ Open source AI tools, frameworks, and research repos.
 | Portable-AI-USB | USB-based AI setup | https://github.com/techjarves/Portable-AI-USB |
 | USB-Uncensored-LLM | Uncensored LLM on USB | https://github.com/techjarves/USB-Uncensored-LLM |
 | ClawWork | OpenClaw as AI coworker | https://github.com/HKUDS/ClawWork |
+| OpenMonoAgent | AI coding agent framework | https://github.com/StartupHakk/OpenMonoAgent.ai |
+| OpenClio | Open source Clio alternative | https://github.com/Phylliida/OpenClio |
 
 ## Prompt Engineering & Jailbreaks
 
@@ -32,7 +34,7 @@ Open source AI tools, frameworks, and research repos.
 | Claude Plugins Official | Official Claude plugins | https://github.com/anthropics/claude-plugins-official |
 | Knowledge Work Plugins | Knowledge work tools | https://github.com/anthropics/knowledge-work-plugins |
 | Anthropic Skills | Skill templates | https://github.com/anthropics/skills |
-| OpenClio | Open source Clio alternative | https://github.com/Phylliida/OpenClio |
+| Skills (mattpocock) | Community skill templates | https://github.com/mattpocock/skills |
 
 ## Web Scraping & Data
 
